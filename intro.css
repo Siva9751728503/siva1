@@ -1,0 +1,27 @@
+body{
+    background-image:url('https://i.pinimg.com/564x/c2/61/fa/c261fabfde338af82cf8f1e5c6be8eac.jpg');
+
+    background-size: cover;
+    background-attachment:fixed;
+
+    
+}
+h3{
+    color:red;
+    front-size:large;
+
+}
+div{
+    color: rgb(red, green, blue);
+}
+ol{
+    color: rgb(rgb(214, 45, 45), rgb(207, 194, 194), blue);
+}
+th{
+    color: rgb(red, green, blue);
+}
+h2{
+    color:red;
+    front-size:large;
+
+}
